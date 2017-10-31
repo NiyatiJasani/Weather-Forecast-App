@@ -1,3 +1,3 @@
 # Weather-Forecast-App
 Angular SPA based on the course Learn and understand Angularjs 
- http://niyatijasani.github.io/Weather-Forecast-App/blob/gh-pages/index.html
+ http://niyatijasani.github.io/Weather-Forecast-App/.
